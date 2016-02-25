@@ -1,0 +1,24 @@
+{
+  "name": "nodeqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmitz1193/nodeqlite.git"
+  },
+  "keywords": [],
+  "author": "Stephanie Krause <schmitz1193@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schmitz1193/nodeqlite/issues"
+  },
+  "homepage": "https://github.com/schmitz1193/nodeqlite#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.1"
+  }
+}
