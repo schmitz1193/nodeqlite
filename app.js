@@ -5,6 +5,8 @@ const sqlite3 = require('sqlite3');
 
 const PORT = process.env.PORT || 3000;
 
+//class exerise.  chinook.sqlite downloaded in class
+
 const app = express();
 const db = new sqlite3.Database('./db/Chinook.sqlite');
 
